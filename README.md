@@ -18,7 +18,7 @@
 
 <li>Beneath each artist image is location, date of the concert and price of a ticket.
 
-<li>When user clicks on a certain artists, a propt will pop-up asking the user for their name, last name, email and credit card info for buying a ticket.
+<li>When user clicks on a certain artists, a prompt will pop-up asking the user for their name, last name, email and credit card info for buying a ticket.
 
 <li>List of locations and artist names/images are grabbed from a JSON file.
 
